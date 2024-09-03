@@ -1,5 +1,5 @@
-<h1 align="center">Hey 😎</h1>
-<h3 align="center">AI & Blockchain Enthusiast</h3>
+<h1 align="center">Hey I'm Ryan Chan 😎</h1>
+<h3 align="center">AI & Blockchain Enthusiast,</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,12 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihaterynn&show_icons=true&locale=en&layout=compact" alt="ihaterynn" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihaterynn&show_icons=true&locale=en" alt="ihaterynn" /></p>
 
 <h3 align="center">Recently Played on Spotify:</h3>
 <p align="center">
