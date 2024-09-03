@@ -1,5 +1,5 @@
-<h1 align="center">Hey I'm Ryan Chan 😎</h1>
-<h3 align="center">AI & Blockchain Enthusiast,</h3>
+<h1 align="center">Hey 😎</h1>
+<h3 align="center">AI & Blockchain Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +27,13 @@
   </a>
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="center">Top Languages:</h3>
+<p align="center">
+  <a href="https://github.com/ihaterynn/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact" alt="Top Languages" />
   </a>
 </p>
 
