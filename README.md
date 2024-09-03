@@ -1,4 +1,7 @@
-<h1 align="center">Hey 😎</h1>
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faiat.or.th%2FMenhera-Chan-Yes-Sticker-Menhera-Chan-Yes-Anime-Discover-2416255.html&psig=AOvVaw1V_W5x9LeFc-Y9XVQdf2t3&ust=1725491880834000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODN0af0p4gDFQAAAAAdAAAAABAg" alt="Menhera-Chan GIF" />
+</p>
+
 <h3 align="center">AI & Blockchain Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +36,7 @@
 <h3 align="center">Top Languages:</h3>
 <p align="center">
   <a href="https://github.com/ihaterynn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=000000&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
   </a>
 </p>
 
