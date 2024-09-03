@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a58cd117-cad8-4640-bdd8-53116ac880cd/devynkd-9f7efbcd-cc57-4a6c-b9de-3acc9a6fad90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1OGNkMTE3LWNhZDgtNDY0MC1iZGQ4LTUzMTE2YWM4ODBjZFwvZGV2eW5rZC05ZjdlZmJjZC1jYzU3LTRhNmMtYjlkZS0zYWNjOWE2ZmFkOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IBR-Gn_2PWBO0r-u2okZC_3SNj27aOS41ALgAZrHt-E 
-" alt="hehe GIF" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a58cd117-cad8-4640-bdd8-53116ac880cd/devynkd-9f7efbcd-cc57-4a6c-b9de-3acc9a6fad90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1OGNkMTE3LWNhZDgtNDY0MC1iZGQ4LTUzMTE2YWM4ODBjZFwvZGV2eW5rZC05ZjdlZmJjZC1jYzU3LTRhNmMtYjlkZS0zYWNjOWE2ZmFkOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IBR-Gn_2PWBO0r-u2okZC_3SNj27aOS41ALgAZrHt-E" alt="hehe GIF" />
 </p>
 
 <h3 align="center">AI & Blockchain Enthusiast</h3>
