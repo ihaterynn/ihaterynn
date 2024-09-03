@@ -3,9 +3,15 @@
 </p>
 <hr>
 
-<h3 align="center">AI & Blockchain Enthusiast</h3>
+<h1 align="left">💼 About Me</h2>
+<ul align="left">
+  <li>Call me Ryan!</li>
+  <li>Computer Science Student at Sunway University</li>
+  <li>AI & Blockchain Enthusiast</li>
+  <li>Open to joining hackathons, please invite me :></li>
+</ul>
 
-<h2 align="left">🌐 Social Medias</h2>
+<h1 align="left">🌐 Social Medias</h2>
 <p align="left">
   <a href="https://www.instagram.com/ryanncjy/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ryan Chan Instagram" height="30" width="40" />
@@ -15,15 +21,7 @@
   </a>
 </p>
 
-<h2 align="left">💼 About Me</h2>
-<ul align="left">
-  <li>Call me Ryan!</li>
-  <li>Computer Science Student at Sunway University</li>
-  <li>AI & Blockchain Enthusiast</li>
-  <li>Open to joining hackathons, please invite me :></li>
-</ul>
-
-<h2 align="left">💻 Programming Languages</h2>
+<h1 align="left">💻 Programming Languages</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
