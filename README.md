@@ -1,17 +1,21 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a58cd117-cad8-4640-bdd8-53116ac880cd/devynkd-9f7efbcd-cc57-4a6c-b9de-3acc9a6fad90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1OGNkMTE3LWNhZDgtNDY0MC1iZGQ4LTUzMTE2YWM4ODBjZFwvZGV2eW5rZC05ZjdlZmJjZC1jYzU3LTRhNmMtYjlkZS0zYWNjOWE2ZmFkOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IBR-Gn_2PWBO0r-u2okZC_3SNj27aOS41ALgAZrHt-E" alt="hehe GIF" />
+  <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
 </p>
 
 <h3 align="center">AI & Blockchain Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🌐 Social Medias</h2>
+<hr>
 <p align="left">
+  <a href="https://www.instagram.com/ryanncjy/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ryan Chan Instagram" height="30" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/ryan-chan-jing-yi-310377288/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan chan jing yi" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ryan Chan LinkedIn" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">💻 Programming Languages</h2>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
