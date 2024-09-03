@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/61/75/53/6175536c2a8b9859add3703fc50cd275.gif" alt="Cute Anime Girl GIF" />
+  <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="Cute Anime Girl GIF" />
 </p>
 
 <h3 align="center">AI & Blockchain Enthusiast</h3>
