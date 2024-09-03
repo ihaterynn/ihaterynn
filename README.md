@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-<h1 align="left">💼 About Me</h2>
+<h1 align="left">💼 About Me</h1>
 <ul align="left">
   <li>Call me Ryan!</li>
   <li>Computer Science Student at Sunway University</li>
@@ -11,17 +11,21 @@
   <li>Open to joining hackathons, please invite me :></li>
 </ul>
 
-<h1 align="left">🌐 Social Medias</h2>
+<br>
+
+<h1 align="left">🌐 Social Medias</h1>
 <p align="left">
-  <a href="https://www.instagram.com/ryanncjy/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ryan Chan Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/ryanncjy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/ryan-chan-jing-yi-310377288/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ryan Chan LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ryan-chan-jing-yi-310377288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<h1 align="left">💻 Programming Languages</h2>
+<br>
+
+<h1 align="left">💻 Programming Languages</h1>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -43,12 +47,16 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">Top Languages:</h3>
 <p align="center">
   <a href="https://github.com/ihaterynn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
   </a>
 </p>
+
+<br>
 
 <h3 align="center">Recently Played on Spotify:</h3>
 <p align="center">
