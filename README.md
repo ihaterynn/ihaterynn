@@ -55,7 +55,8 @@
 <p align="center">
 <br>
   <a href="https://github.com/ihaterynn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff&cache_seconds=1
+" alt="Top Languages" />
   </a>
 </p>
 
