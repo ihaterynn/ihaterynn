@@ -63,7 +63,7 @@
 
 <h1 align="center">✩°｡ Pass me the Aux 🎧♪✮</h1>
 <p align="center">
-  <span style="border: 5px solid #8a2be2; padding: 10px; display: inline-block;">
+  <span style="border: 5px solid #c992f9; padding: 50px; display: inline-block;">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=30vxro1a8w9a9nh6sqoetyffh" alt="Recently Played on Spotify" />
   </span>
 </p>
