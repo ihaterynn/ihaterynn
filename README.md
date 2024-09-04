@@ -2,7 +2,7 @@
   <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
 </p>
 
-<h1 align="left">💼 About Me</h1>
+<h1 align="left">🍙 About Me</h1>
 <ul align="left">
   <li>Call me Ryan!</li>
   <li>Computer Science Student at Sunway University</li>
@@ -62,7 +62,7 @@
 
 <br>
 
-<h1 align="center">🎵 Pass me the Aux</h1>
+<h1 align="center">✩°｡ Pass me the Aux 🎧✮</h1>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=30vxro1a8w9a9nh6sqoetyffh" alt="Recently Played on Spotify" />
 </p>
