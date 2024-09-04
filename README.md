@@ -13,7 +13,7 @@
 
 <br>
 
-<h1 align="left">🌐 Social Medias</h1>
+<h1 align="left">🌐 Let's Link up</h1>
 <p align="left">
 <br>
   <a href="https://www.instagram.com/ryanncjy/" target="_blank">
