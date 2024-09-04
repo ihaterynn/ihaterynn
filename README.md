@@ -14,6 +14,7 @@
 
 <h1 align="left">🌐 Social Medias</h1>
 <p align="left">
+<br>
   <a href="https://www.instagram.com/ryanncjy/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
