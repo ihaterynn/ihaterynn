@@ -2,7 +2,6 @@
   <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
 </p>
 
-
 <h1 align="left">💼 About Me</h1>
 <ul align="left">
   <li>Call me Ryan!</li>
