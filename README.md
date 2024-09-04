@@ -27,6 +27,7 @@
 
 <h1 align="left">💻 Programming Languages</h1>
 <p align="left">
+<br>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -51,6 +52,7 @@
 
 <h1 align="left">📊 GitHub Stats</h1>
 <p align="center">
+<br>
   <a href="https://github.com/ihaterynn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
   </a>
