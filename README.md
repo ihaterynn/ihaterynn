@@ -26,7 +26,7 @@
 <br>
 
 <h1 align="left">💻 Programming Languages</h1>
-<p align="left">
+<p align="center">
 <br>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
