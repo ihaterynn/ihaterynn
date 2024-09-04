@@ -7,7 +7,8 @@
   <li>Call me Ryan!</li>
   <li>Computer Science Student at Sunway University</li>
   <li>AI & Blockchain Enthusiast</li>
-  <li>Open to joining hackathons, please invite me :></li>
+  <li>Open to joining hackathons (plspls invite me) </li>
+  <li>Connect with me on my socials below! Looking to collaborate or meet likeminded peeps </li>
 </ul>
 
 <br>
