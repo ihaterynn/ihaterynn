@@ -50,7 +50,7 @@
 
 <br>
 
-<h1 align="left">📊 GitHub Stats</h1>
+<h1 align="center">📊 GitHub Stats</h1> <!-- Centered GitHub Stats header -->
 <p align="center">
 <br>
   <a href="https://github.com/ihaterynn/github-readme-stats">
