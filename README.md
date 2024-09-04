@@ -48,7 +48,7 @@
 
 <br>
 
-<p align="center" style="font-size: 40px; font-weight: bold;">Top Languages:</p>
+<h2 align="center" style="font-size: 32px; font-weight: bold; margin-bottom: 0; border-bottom: none;">Top Languages:</h2>
 <p align="center">
   <a href="https://github.com/ihaterynn/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
@@ -57,7 +57,7 @@
 
 <br>
 
-<p align="center" style="font-size: 40px; font-weight: bold;">Pass me the Aux</p>
+<h2 align="center" style="font-size: 32px; font-weight: bold; margin-bottom: 0; border-bottom: none;">Pass me the Aux</h2>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=30vxro1a8w9a9nh6sqoetyffh" alt="Recently Played on Spotify" />
 </p>
