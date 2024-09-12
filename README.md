@@ -4,7 +4,7 @@
 
 <h1 align="left">🍙 About Me</h1>
 <ul align="left">
-  <li>Call me Ryan!</li>
+  <li>Call me Ryan</li>
   <li>Computer Science Student at Sunway University</li>
   <li>AI & Blockchain Enthusiast</li>
   <li>Looking to collaborate or meet likeminded peeps </li>
