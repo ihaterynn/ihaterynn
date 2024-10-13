@@ -1,31 +1,3 @@
-<p align="center">
-  <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
-</p>
-
-<h1 align="left">🍙 About Me</h1>
-<ul align="left">
-  <li>Call me Ryan</li>
-  <li>Computer Science Student at Sunway University</li>
-  <li>AI & Blockchain Enthusiast</li>
-  <li>Looking to collaborate or meet likeminded peeps </li>
-  <li>Connect with me on my socials below! </li>
-</ul>
-
-<br>
-
-<h1 align="left">🌐 Let's Link up</h1>
-<p align="left">
-<br>
-  <a href="https://www.instagram.com/ryanncjy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-chan-jing-yi-310377288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<br>
-
 <h1 align="left">💻 Tech Stack</h1>
 <p align="left">
 <br>
@@ -78,19 +50,23 @@
   </a>
 </p>
 
-
 <br>
 
-<h1 align="center">📊 GitHub Stats</h1> 
+<h1 align="center" style="color: lightblue;">📊 Most Used Languages</h1> 
 <p align="center">
-<br>
   <a href="https://github.com/ihaterynn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=2f2f2f&border_color=ffffff&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=000000&border_color=ffffff&text_color=ffffff&hide=HTML&langs_count=6&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" style="margin: 10px;" />
   </a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ihaterynn&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
+
+<br>
 
 <h1 align="center">✩°｡ Pass me the Aux 🎧♪✮</h1>
 <p align="center">
