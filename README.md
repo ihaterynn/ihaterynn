@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
+</p>
+
+<h1 align="left">🍙 About Me</h1>
+<ul align="left">
+  <li>Call me Ryan</li>
+  <li>Computer Science Student at Sunway University</li>
+  <li>AI & Blockchain Enthusiast</li>
+  <li>Looking to collaborate or meet likeminded peeps </li>
+  <li>Connect with me on my socials below! </li>
+</ul>
+
+<br>
+
+<h1 align="left">🌐 Let's Link up</h1>
+<p align="left">
+<br>
+  <a href="https://www.instagram.com/ryanncjy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-chan-jing-yi-310377288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br>
+
 <h1 align="left">💻 Tech Stack</h1>
 <p align="left">
 <br>
@@ -33,7 +61,6 @@
   </a>
 </p>
 
-<!-- Second row for Figma, VSCode, PyCharm, Eclipse IDEs -->
 <p align="left">
 <br>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
@@ -64,7 +91,6 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ihaterynn&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
-
 
 <br>
 
