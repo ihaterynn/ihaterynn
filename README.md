@@ -1,3 +1,7 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=ihaterynn&label=Profile%20Views&color=8A2BE2&style=flat" alt="ihaterynn" /> 
+</p>
+
 <p align="center">
   <img src="https://gifdb.com/images/thumbnail/cute-anime-menhera-chibi-v4xp46804eharge8.gif" alt="helobye GIF" />
 </p>
