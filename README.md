@@ -90,7 +90,7 @@
 <h1 align="center" style="color: lightblue;">📊 GitHub Stats</h1> 
 <p align="center">
   <a href="https://github.com/ihaterynn/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&layout=compact&bg_color=000000&border_color=ffffff&text_color=ffffff&hide=HTML&langs_count=6&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" style="margin: 10px;" />
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaterynn&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=000000" alt="top langs" style="margin: 10px;"/>
   </a>
 </p>
 
