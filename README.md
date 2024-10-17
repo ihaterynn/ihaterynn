@@ -71,8 +71,6 @@
   </a>
 </p>
 
-
-
 <p align="left">
 <br>
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
