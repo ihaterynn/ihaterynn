@@ -13,7 +13,7 @@
   </a>
   <li>Computer Science Student at Sunway University</li>
   <li>Entry Level AI Engineer</li>
-  <li>AI & Blockchain Builder</li>
+  <li>AI & Web3 Builder</li>
   <li>Looking to collaborate or meet likeminded peeps</li>
   <li>Connect with me at my socials below!</li>
 </ul>
