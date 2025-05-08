@@ -41,9 +41,16 @@
 
 <h1 align="left">💻 Tech Stack</h1>
 
-[![Languages](https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,js,react,vue,html,css,nodejs,scala,pandas)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,c,html,css,js,nodejs,scala)](https://skillicons.dev)
+
+<br/>
+
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=tensorflow,pytorch,react,vue,pandas)](https://skillicons.dev)
+
+<br/>
 
 [![Tools](https://skillicons.dev/icons?i=figma,vscode,pycharm,eclipse,aws,docker,mysql)](https://skillicons.dev)
+
 
 <br>
 
