@@ -11,11 +11,11 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=43dbf6&vCenter=true&width=400&lines=Call+me+Ryan!" alt="Typing Animation"/>
   </a>
-  <li>Computer Science Student at Sunway University</li>
+  <li>Computer Science Student at 42KL & Sunway University</li>
   <li>Entry Level AI Engineer</li>
   <li>AI & Web3 Builder</li>
   <li>Looking to collaborate or meet likeminded peeps</li>
-  <li>Connect with me at my socials below!</li>
+  <li>Connect with me via my socials below!</li>
 </ul>
 
 <br>
